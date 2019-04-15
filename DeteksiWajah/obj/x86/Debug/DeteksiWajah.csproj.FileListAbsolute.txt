@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\bin\Debug\DeteksiWajah.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\bin\Debug\DeteksiWajah.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\bin\Debug\Emgu.CV.dll
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\bin\Debug\Emgu.Util.dll
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\bin\Debug\ZedGraph.dll
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\bin\Debug\Emgu.CV.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\bin\Debug\Emgu.Util.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\obj\x86\Debug\DeteksiWajah.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\obj\x86\Debug\DeteksiWajah.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\obj\x86\Debug\DeteksiWajah.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\obj\x86\Debug\DeteksiWajah.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\DeteksiWajah\DeteksiWajah\obj\x86\Debug\DeteksiWajah.pdb
